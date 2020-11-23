@@ -1,0 +1,11 @@
+.dashboardButtons{
+    position: relative;
+    margin-top: 20px;
+}
+.addButton{
+    float: right;
+}
+.Dashboardbody{
+
+    padding: 30px;
+}

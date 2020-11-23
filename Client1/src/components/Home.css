@@ -1,0 +1,10 @@
+.home{
+    box-sizing: border-box;
+    margin: 100px;
+    /* padding: inherit; */
+    padding: 150px;
+}
+
+body{
+    background-color: #F5F5F5;
+}
