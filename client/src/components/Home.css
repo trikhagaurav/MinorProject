@@ -1,0 +1,14 @@
+.formhome {
+    margin: 200px;
+    width: 500px;
+    display: flow-root;
+    padding: 30px;
+}
+.home {
+    width: fit-content;
+    margin: auto;
+}
+.font{
+    color: black;
+    width: 500px;
+}
