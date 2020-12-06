@@ -1,0 +1,19 @@
+.uplImage{
+    max-height: 470px;
+}
+.wImg{
+    max-width: 700px;
+}
+.divForm{
+    width: 700px;
+    padding: auto;
+    margin: auto;
+    margin-top: 70px;
+    background-color: white;
+}
+.paddingForm{
+    padding: 20px;
+}
+.Imgheight{
+    max-height: 400px;
+}
