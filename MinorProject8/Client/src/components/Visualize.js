@@ -84,10 +84,10 @@ const Visualize = ({ setAuth }) =>
                     </Card.Body> */}
                     <Card.Footer>
                     <Card.Text>
-                         Plot Gender vs Count    
+                         View Gender vs Count    
                         </Card.Text>
                     < Router>
-                    <Button variant="success"><Link className="text-white" style={{ textDecoration: 'none' }} target="_blank" to={"//localhost:4000/plotGvsC"} >Plot</Link></Button>
+                    <Button variant="success"><Link className="text-white" style={{ textDecoration: 'none' }} target="_blank" to={"//localhost:4000/plotGvsC"} >View</Link></Button>
                   </ Router> 
                   </Card.Footer>
                 </Card> 
@@ -105,10 +105,10 @@ const Visualize = ({ setAuth }) =>
                     </Card.Body> */}
                     <Card.Footer>
                     <Card.Text>
-                         Plot Careplan vs Count
+                      View Careplan vs Count
                         </Card.Text>
                     < Router>
-                    <Button variant="success"><Link className="text-white" style={{ textDecoration: 'none' }} target="_blank" to={"//localhost:4000/plotCvsC"} >Plot</Link></Button>
+                    <Button variant="success"><Link className="text-white" style={{ textDecoration: 'none' }} target="_blank" to={"//localhost:4000/plotCvsC"} >View</Link></Button>
                   </ Router> 
                   </Card.Footer>
                 </Card> 
@@ -126,10 +126,10 @@ const Visualize = ({ setAuth }) =>
                     </Card.Body> */}
                     <Card.Footer>
                     <Card.Text>
-                         Plot All the Graphs
+                    View all the Graphs
                         </Card.Text>
                     < Router>
-                    <Button variant="success"><Link className="text-white" style={{ textDecoration: 'none' }} target="_blank" to={"//localhost:4000/AllGraphs"} >Plot</Link></Button>
+                    <Button variant="success"><Link className="text-white" style={{ textDecoration: 'none' }} target="_blank" to={"//localhost:4000/AllGraphs"} >View</Link></Button>
                   </ Router> 
                   </Card.Footer>
                 </Card> 
@@ -150,10 +150,10 @@ const Visualize = ({ setAuth }) =>
                     </Card.Body> */}
                     <Card.Footer>
                     <Card.Text>
-                         Plot Medical Records vs Count
+                    View Medical Records vs Count
                         </Card.Text>
                     < Router>
-                    <Button variant="success"><Link className="text-white" style={{ textDecoration: 'none' }} target="_blank" to={"//localhost:4000/plotMvsC"} >Plot</Link></Button>
+                    <Button variant="success"><Link className="text-white" style={{ textDecoration: 'none' }} target="_blank" to={"//localhost:4000/plotMvsC"} >View</Link></Button>
                   </ Router> 
                   </Card.Footer>
                 </Card> 
@@ -171,10 +171,10 @@ const Visualize = ({ setAuth }) =>
                     </Card.Body> */}
                     <Card.Footer>
                     <Card.Text>
-                         Plot Country vs Count 
+                    View Country vs Count 
                         </Card.Text>
                     < Router>
-                    <Button variant="success"><Link className="text-white" style={{ textDecoration: 'none' }} target="_blank" to={"//localhost:4000/plotCovsC"} >Plot</Link></Button>
+                    <Button variant="success"><Link className="text-white" style={{ textDecoration: 'none' }} target="_blank" to={"//localhost:4000/plotCovsC"} >View</Link></Button>
                   </ Router> 
                   </Card.Footer>
                 </Card> 
@@ -192,10 +192,10 @@ const Visualize = ({ setAuth }) =>
                     </Card.Body> */}
                     <Card.Footer>
                     <Card.Text>
-                         Plot Date vs Count
+                    View Date vs Count
                         </Card.Text>
                     < Router>
-                    <Button variant="success"><Link className="text-white" style={{ textDecoration: 'none' }} target="_blank" to={"//localhost:4000/plotDvsC"} >Plot</Link></Button>
+                    <Button variant="success"><Link className="text-white" style={{ textDecoration: 'none' }} target="_blank" to={"//localhost:4000/plotDvsC"} >View</Link></Button>
                   </ Router> 
                   </Card.Footer>
                 </Card> 
